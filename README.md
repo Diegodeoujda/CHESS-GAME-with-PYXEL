@@ -19,3 +19,5 @@ Perfect for quick matches with a friend on one keyboard!
 1. Install Pyxel:
    ```bash
    pip install pyxel
+   
+![Chess Game](screenshots/chess_game.png)
