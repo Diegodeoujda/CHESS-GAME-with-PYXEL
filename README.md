@@ -20,4 +20,4 @@ Perfect for quick matches with a friend on one keyboard!
    ```bash
    pip install pyxel
    
-![Chess Game](screenshots/chess_game.png)
+![Chess Game](screenshots/gameplay.png)
